@@ -1,2 +1,6 @@
-# SQL
-SQL command with query
+# SQL query
+which include
+CREATE Command
+DROP Command
+ALTER Commands
+affecting rows and column 
